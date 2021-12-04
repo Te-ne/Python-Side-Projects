@@ -1,4 +1,3 @@
-import pandas
 import string
 import random
 num = random.randrange(1,50)
