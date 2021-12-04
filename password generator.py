@@ -1,5 +1,3 @@
-#import pandas
-import pandas as pd
 import string
 import secrets
 import random
