@@ -1,4 +1,3 @@
-import pandas as pd
 import string
 num=int(input("Enter the number you are checking for: "))
 for i in range(2,num):
